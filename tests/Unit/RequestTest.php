@@ -16,7 +16,6 @@
  ******************************************************************************/
 
 use Okta\JwtVerifier\Request;
-use PHPUnit\Framework\TestCase;
 
 class RequestTest extends BaseTestCase
 {
